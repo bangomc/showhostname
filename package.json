@@ -1,0 +1,24 @@
+{
+  "name": "showhostname",
+  "version": "1.0.0",
+  "description": "Exibe o hostname de onde estiver rodando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangomc/showhostname.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Cristhiano Roberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bangomc/showhostname/issues"
+  },
+  "homepage": "https://github.com/bangomc/showhostname#readme"
+}
